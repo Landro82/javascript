@@ -45,7 +45,7 @@ console.log(convertirMotLeet("Noob")); // "N008"
 console.log(convertirMotLeet("Hacker")); // "H4ck3r"
 ```
 
-Voici ma solution, mais je pense que tu as fais une erreur avec la valuer de r
+Voici ma solution, mais je pense que tu as fait une erreur avec la valuer de r
 
 ```
 function convertirLettreLeet(a){
