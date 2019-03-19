@@ -1,4 +1,5 @@
 // Ajoutez votre code ici
+```
  function convertirLettreLeet(lettre){
    let letterLeet = lettre;
    switch(lettre.toLowerCase()){
@@ -42,3 +43,4 @@ function convertirMotLeet(unMot){
 console.log(convertirMotLeet("Hello World!")); // "H3110 W0r1d!"
 console.log(convertirMotLeet("Noob")); // "N008"
 console.log(convertirMotLeet("Hacker")); // "H4ck3r"
+```
