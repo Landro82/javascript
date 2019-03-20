@@ -84,12 +84,11 @@ function convertirLettreLeet(a){
 
 function convertirMotLeet(unMot){
   let arr = unMot.split('');
-  console.log(arr);
   let arr1 =[];
   for(let i = 0; i < arr.length; i++){
     arr1.push(convertirLettreLeet(arr[i]));
   }
-  return arr1;
+  return arr1.join('');
 }
 console.log(convertirMotLeet("Hello World!")); // "H3110 W0r1d!"
 console.log(convertirMotLeet("Noob")); // "N008"
