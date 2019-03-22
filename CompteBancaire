@@ -1,4 +1,4 @@
-/* Reprenons le contexte des comptes en banque issu d'un précédent exercice. Un compte bancaire sera modélisé par une classe définie comme suit :
+Reprenons le contexte des comptes en banque issu d'un précédent exercice. Un compte bancaire sera modélisé par une classe définie comme suit :
 
 Une propriété titulaire initialisée par le constructeur.
 Une propriété solde valant initialement 0.
@@ -8,10 +8,8 @@ Ecrivez un programme qui crée 3 comptes bancaires, l'un appartenant à Alex, le
 
 Ensuite, le programme crédite 1000 € et affiche la description de chacun des comptes.
 
-*
-*/
 // Ajoutez votre code ici
-class Comptes{
+```class Comptes{
   construtor(titulaire){
     this.titulaire = titulaire;
     this.solde = 0;
@@ -37,5 +35,6 @@ for(const compte of myComptes){
   compte.crediter(1000);
   console.log(compte.decrire());
 }
+```
 /*Titulaire undefined a un compte soldé á NaN*/
  
