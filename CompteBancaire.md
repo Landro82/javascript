@@ -9,7 +9,8 @@ Ecrivez un programme qui crée 3 comptes bancaires, l'un appartenant à Alex, le
 Ensuite, le programme crédite 1000 € et affiche la description de chacun des comptes.
 
 // Ajoutez votre code ici
-```class Comptes{
+```
+class Comptes{
   construtor(titulaire){
     this.titulaire = titulaire;
     this.solde = 0;
