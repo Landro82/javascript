@@ -1,0 +1,29 @@
+//Conditional Logic with if Statements
+// Setup
+function trueOrFalse(wasThatTrue) {
+
+  // Only change code below this line.
+  if(wasThatTrue){
+      return "Yes, that was true";
+  }
+  return "No, that was false";
+  
+  // Only change code above this line.
+
+}
+
+// Change this value to test
+trueOrFalse(true);
+
+//Comparison with Equality
+// Setup
+function testEqual(val) {
+  if (val == 12) { // Change this line
+    return "Equal";
+  }
+  return "Not Equal";
+}
+
+// Change this value to test
+testEqual(12);
+// Comparison with strict Equality operator
