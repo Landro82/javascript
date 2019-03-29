@@ -12,7 +12,7 @@ In simple words, web Development refers to developing a website and hosting it o
 - [Web Development Crash Courses](https://www.youtube.com/playlist?list=PLillGF-RfqbYeckUaD1z6nviTp31GLTH8)
 
 ## Online IDE
-- [Repl.it](https://repl.it)
+- [Repl.it](https://repl.it/languages/javascript)
 - [ES6Console](https://es6console.com/)
 - [Codepen.io](https://codepen.io/pen/)
 
