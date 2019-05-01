@@ -31,7 +31,7 @@ function cc(card) {
 // Note: Only the last will display
 cc(2); cc(3); cc(7); cc('K'); cc('A');
 
-Aris help
+// Aris help
 var count = 0;
 
 function cc(card) {
